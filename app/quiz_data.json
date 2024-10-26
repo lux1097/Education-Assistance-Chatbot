@@ -1,0 +1,21 @@
+[
+    {
+        "question": "Newton’s First Law of Motion states that an object will remain at rest or move at a constant velocity unless acted upon by a:",
+        "information": "",
+        "options": ["A. Balanced force", "B. Unbalanced force", "C. Frictional force", "D. Gravitational force"],
+        "answer": "B. Unbalanced force"
+    },
+    {
+        "question": "If a car’s velocity increases from 10 m/s to 30 m/s in 5 seconds, what is its acceleration?",
+        "information": "",
+        "options": ["A. 4 m/s²", "B. 5 m/s²", "C. 6 m/s²", "D. 8 m/s²"],
+        "answer": "A. 4 m/s²"
+    },
+    {
+        "question": " A ball is thrown horizontally with a velocity of 20 m/s from the top of a 50-meter high cliff. How long does it take for the ball to hit the ground?",
+        "information": "",
+        "options": ["3.19 s", "4.52 s", "5.10 s", "6.35 s"],
+        "answer": "3.19 s"
+    }
+    
+]
